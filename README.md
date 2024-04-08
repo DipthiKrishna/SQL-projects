@@ -6,9 +6,10 @@ Welcome to my SQL Practice- keep me updated-  Projects repository! Here, you'll 
 
 Below is a list of SQL practice projects included in this repository:
 
-- **RevRoll**
+- **RevRoll I & II**
   - [RevRoll DB Schema.pdf](RevRoll%20DB%20Schema.pdf): Database schema for the RevRoll project.
-  - [Deepthi Binu_ revroll.sql](Deepthi%20Binu_%20revroll.sql): SQL queries for the RevRoll project.
+  - [Deepthi Binu_ revroll 1.sql](Deepthi%20Binu_%20revroll%201.sql): SQL queries for the RevRoll 1 project.
+  - [Deepthi Binu_ revroll 2.sql](Deepthi%20Binu_%20revroll%202.sql): SQL queries for the RevRoll 2 project.
 
 - **Vibestream I & II**
   - [Vibestream 1 DB Schema.pdf](Vibestream%201%20DB%20Schema.pdf): Database schema for the Vibestream 1 & II project.
